@@ -1,2 +1,2 @@
 # social-register
-this is a class work
+This is a class work Project
